@@ -1,0 +1,21 @@
+{
+  "name": "sample-protractor",
+  "version": "1.0.0",
+  "description": "Sample Protractor project to demonstrate protractor-helper types (v4.1.1)",
+  "main": "protractor.conf.js",
+  "scripts": {
+    "pretest": "webdriver-manager update --gecko false",
+    "test": "protractor"
+  },
+  "keywords": [
+    "end-to-end testing",
+    "test automation",
+    "software testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr-filho.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "protractor": "^5.4.4",
+    "protractor-helper": "^4.1.1"
+  }
+}
