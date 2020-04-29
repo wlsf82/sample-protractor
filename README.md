@@ -1,5 +1,5 @@
 # sample-protractor
-Sample Protractor project to demonstrate protractor-helper types (v4.1.1).
+Sample Protractor project to demonstrate [protractor-helper](https://wlsf82.github.io/protractor-helper/) types (v4.1.1).
 
 ## Installation
 
