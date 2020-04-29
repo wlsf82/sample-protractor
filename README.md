@@ -11,4 +11,4 @@ Run `npm test` to run the sample end-to-end tests.
 
 ___
 
-Made with ❤️ by [Walmyr Filho](https://walmyr-filho.com)
+Made with ❤️ by [Walmyr Filho](https://walmyr-filho.com).
