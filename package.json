@@ -12,7 +12,7 @@
     "test automation",
     "software testing"
   ],
-  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr-filho.com)",
+  "author": "Walmyr Filho <wlsf82@gmail.com> (http://walmyr-filho.com)",
   "license": "MIT",
   "devDependencies": {
     "protractor": "^5.4.4",
