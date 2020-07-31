@@ -1,5 +1,5 @@
 module.exports.config = {
-  baseUrl: "https://walmyr-filho.com/",
+  baseUrl: "http://walmyr-filho.com/",
   directConnect: true,
   specs: ["*.spec.js"],
   capabilities: {
